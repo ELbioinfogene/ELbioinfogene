@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ELbioinfogene
+- 👋 Hi, I’m Eric [@ELbioinfogene]
 - 👀 I’m interested in genetics, neural networks, and data visualization
 - 🌱 I’m currently learning object-oriented python
 - 💞️ I’m looking to collaborate on making cool stuff
